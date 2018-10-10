@@ -6,7 +6,7 @@ New data
 a.     Internet Access on all machines without proxy (direct access to internet).
 
        a.1- New steps to configure the data
-********************DATA***************************88
+********************DATA***************************89
 
 b.    System user should be an admin user.
 
