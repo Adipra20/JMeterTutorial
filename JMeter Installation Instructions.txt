@@ -1,5 +1,8 @@
 ﻿lab Setup Requirements -Aditya
 
+
+New data
+
 a.     Internet Access on all machines without proxy (direct access to internet).
 
 b.    System user should be an admin user.
